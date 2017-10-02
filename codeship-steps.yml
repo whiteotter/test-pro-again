@@ -8,4 +8,4 @@
 
 - name: print plaintext
   service: demo
-  command: /bin/bash -c 'echo kaBlaaah!'  
+  command: /bin/bash -c 'echo kaBlaaah! '
